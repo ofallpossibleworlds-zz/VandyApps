@@ -9,17 +9,25 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var amountField: UITextField!
+    @IBOutlet weak var tipSlider: UISlider!
+    @IBOutlet weak var tipPercentLabel: UILabel!
+    @IBOutlet weak var partyField: UITextField!
+    @IBOutlet weak var tipLabel: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    @IBAction func sliderMoved(_ sender: UISlider) {
+        tipPercentLabel.text = String(Int(tipSlider.value)) + "%"
     }
-
-
+    
+    @IBAction func calculate(_ sender: UIButton) {
+        if let text = amountField.text {
+            NSLog(text)
+        }
+    }
 }
 
