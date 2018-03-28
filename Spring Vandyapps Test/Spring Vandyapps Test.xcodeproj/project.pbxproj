@@ -1,0 +1,389 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D5674BD4202A80F9002C1FA0 /* MyPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5674BD3202A80F9002C1FA0 /* MyPhotoViewController.swift */; };
+		D579D2B02016E07A0019D00F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579D2AF2016E07A0019D00F /* AppDelegate.swift */; };
+		D579D2B22016E07A0019D00F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579D2B12016E07A0019D00F /* ViewController.swift */; };
+		D579D2B52016E07A0019D00F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D579D2B32016E07A0019D00F /* Main.storyboard */; };
+		D579D2B72016E07A0019D00F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D579D2B62016E07A0019D00F /* Assets.xcassets */; };
+		D579D2BA2016E07A0019D00F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D579D2B82016E07A0019D00F /* LaunchScreen.storyboard */; };
+		D5DE90FE2016F100009A776C /* IMG_3550.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90ED2016F0FD009A776C /* IMG_3550.jpg */; };
+		D5DE90FF2016F100009A776C /* IMG_3917.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90EE2016F0FE009A776C /* IMG_3917.JPG */; };
+		D5DE91002016F100009A776C /* IMG_3097.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90EF2016F0FE009A776C /* IMG_3097.JPG */; };
+		D5DE91012016F100009A776C /* IMG_3771.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F02016F0FE009A776C /* IMG_3771.JPG */; };
+		D5DE91022016F100009A776C /* IMG_3918.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F12016F0FE009A776C /* IMG_3918.jpg */; };
+		D5DE91032016F100009A776C /* IMG_3863.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F22016F0FE009A776C /* IMG_3863.JPG */; };
+		D5DE91042016F100009A776C /* IMG_3830.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F32016F0FE009A776C /* IMG_3830.JPG */; };
+		D5DE91052016F100009A776C /* IMG_3555.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F42016F0FF009A776C /* IMG_3555.JPG */; };
+		D5DE91062016F100009A776C /* IMG_3867.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F52016F0FF009A776C /* IMG_3867.JPG */; };
+		D5DE91072016F100009A776C /* IMG_2489.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F62016F0FF009A776C /* IMG_2489.jpg */; };
+		D5DE91082016F100009A776C /* IMG_3536.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F72016F0FF009A776C /* IMG_3536.JPG */; };
+		D5DE91092016F100009A776C /* IMG_3835.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F82016F0FF009A776C /* IMG_3835.JPG */; };
+		D5DE910A2016F100009A776C /* IMG_3905.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90F92016F0FF009A776C /* IMG_3905.JPG */; };
+		D5DE910B2016F100009A776C /* IMG_3767.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90FA2016F100009A776C /* IMG_3767.JPG */; };
+		D5DE910C2016F100009A776C /* IMG_3533.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90FB2016F100009A776C /* IMG_3533.JPG */; };
+		D5DE910D2016F100009A776C /* IMG_3852.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90FC2016F100009A776C /* IMG_3852.JPG */; };
+		D5DE910E2016F100009A776C /* IMG_3875.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D5DE90FD2016F100009A776C /* IMG_3875.JPG */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D5674BD3202A80F9002C1FA0 /* MyPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPhotoViewController.swift; sourceTree = "<group>"; };
+		D579D2AC2016E07A0019D00F /* Spring Vandyapps Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Spring Vandyapps Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D579D2AF2016E07A0019D00F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D579D2B12016E07A0019D00F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D579D2B42016E07A0019D00F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D579D2B62016E07A0019D00F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D579D2B92016E07A0019D00F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D579D2BB2016E07A0019D00F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5DE90ED2016F0FD009A776C /* IMG_3550.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3550.jpg; sourceTree = "<group>"; };
+		D5DE90EE2016F0FE009A776C /* IMG_3917.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3917.JPG; sourceTree = "<group>"; };
+		D5DE90EF2016F0FE009A776C /* IMG_3097.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3097.JPG; sourceTree = "<group>"; };
+		D5DE90F02016F0FE009A776C /* IMG_3771.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3771.JPG; sourceTree = "<group>"; };
+		D5DE90F12016F0FE009A776C /* IMG_3918.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3918.jpg; sourceTree = "<group>"; };
+		D5DE90F22016F0FE009A776C /* IMG_3863.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3863.JPG; sourceTree = "<group>"; };
+		D5DE90F32016F0FE009A776C /* IMG_3830.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3830.JPG; sourceTree = "<group>"; };
+		D5DE90F42016F0FF009A776C /* IMG_3555.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3555.JPG; sourceTree = "<group>"; };
+		D5DE90F52016F0FF009A776C /* IMG_3867.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3867.JPG; sourceTree = "<group>"; };
+		D5DE90F62016F0FF009A776C /* IMG_2489.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_2489.jpg; sourceTree = "<group>"; };
+		D5DE90F72016F0FF009A776C /* IMG_3536.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3536.JPG; sourceTree = "<group>"; };
+		D5DE90F82016F0FF009A776C /* IMG_3835.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3835.JPG; sourceTree = "<group>"; };
+		D5DE90F92016F0FF009A776C /* IMG_3905.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3905.JPG; sourceTree = "<group>"; };
+		D5DE90FA2016F100009A776C /* IMG_3767.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3767.JPG; sourceTree = "<group>"; };
+		D5DE90FB2016F100009A776C /* IMG_3533.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3533.JPG; sourceTree = "<group>"; };
+		D5DE90FC2016F100009A776C /* IMG_3852.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3852.JPG; sourceTree = "<group>"; };
+		D5DE90FD2016F100009A776C /* IMG_3875.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3875.JPG; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D579D2A92016E07A0019D00F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D579D2A32016E07A0019D00F = {
+			isa = PBXGroup;
+			children = (
+				D579D2AE2016E07A0019D00F /* Spring Vandyapps Test */,
+				D579D2AD2016E07A0019D00F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D579D2AD2016E07A0019D00F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D579D2AC2016E07A0019D00F /* Spring Vandyapps Test.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D579D2AE2016E07A0019D00F /* Spring Vandyapps Test */ = {
+			isa = PBXGroup;
+			children = (
+				D579D2AF2016E07A0019D00F /* AppDelegate.swift */,
+				D579D2B12016E07A0019D00F /* ViewController.swift */,
+				D579D2B32016E07A0019D00F /* Main.storyboard */,
+				D5674BD3202A80F9002C1FA0 /* MyPhotoViewController.swift */,
+				D579D2B62016E07A0019D00F /* Assets.xcassets */,
+				D579D2B82016E07A0019D00F /* LaunchScreen.storyboard */,
+				D579D2BB2016E07A0019D00F /* Info.plist */,
+				D5DE910F2016F115009A776C /* Photos */,
+			);
+			path = "Spring Vandyapps Test";
+			sourceTree = "<group>";
+		};
+		D5DE910F2016F115009A776C /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				D5DE90ED2016F0FD009A776C /* IMG_3550.jpg */,
+				D5DE90F42016F0FF009A776C /* IMG_3555.JPG */,
+				D5DE90FA2016F100009A776C /* IMG_3767.JPG */,
+				D5DE90F02016F0FE009A776C /* IMG_3771.JPG */,
+				D5DE90F32016F0FE009A776C /* IMG_3830.JPG */,
+				D5DE90F82016F0FF009A776C /* IMG_3835.JPG */,
+				D5DE90FC2016F100009A776C /* IMG_3852.JPG */,
+				D5DE90F22016F0FE009A776C /* IMG_3863.JPG */,
+				D5DE90F52016F0FF009A776C /* IMG_3867.JPG */,
+				D5DE90FD2016F100009A776C /* IMG_3875.JPG */,
+				D5DE90F92016F0FF009A776C /* IMG_3905.JPG */,
+				D5DE90EE2016F0FE009A776C /* IMG_3917.JPG */,
+				D5DE90F12016F0FE009A776C /* IMG_3918.jpg */,
+				D5DE90F62016F0FF009A776C /* IMG_2489.jpg */,
+				D5DE90EF2016F0FE009A776C /* IMG_3097.JPG */,
+				D5DE90FB2016F100009A776C /* IMG_3533.JPG */,
+				D5DE90F72016F0FF009A776C /* IMG_3536.JPG */,
+			);
+			path = Photos;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D579D2AB2016E07A0019D00F /* Spring Vandyapps Test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D579D2BE2016E07A0019D00F /* Build configuration list for PBXNativeTarget "Spring Vandyapps Test" */;
+			buildPhases = (
+				D579D2A82016E07A0019D00F /* Sources */,
+				D579D2A92016E07A0019D00F /* Frameworks */,
+				D579D2AA2016E07A0019D00F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Spring Vandyapps Test";
+			productName = "Spring Vandyapps Test";
+			productReference = D579D2AC2016E07A0019D00F /* Spring Vandyapps Test.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D579D2A42016E07A0019D00F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Marshall;
+				TargetAttributes = {
+					D579D2AB2016E07A0019D00F = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = D579D2A72016E07A0019D00F /* Build configuration list for PBXProject "Spring Vandyapps Test" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D579D2A32016E07A0019D00F;
+			productRefGroup = D579D2AD2016E07A0019D00F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D579D2AB2016E07A0019D00F /* Spring Vandyapps Test */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D579D2AA2016E07A0019D00F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D5DE90FE2016F100009A776C /* IMG_3550.jpg in Resources */,
+				D5DE91052016F100009A776C /* IMG_3555.JPG in Resources */,
+				D5DE910E2016F100009A776C /* IMG_3875.JPG in Resources */,
+				D5DE91092016F100009A776C /* IMG_3835.JPG in Resources */,
+				D579D2BA2016E07A0019D00F /* LaunchScreen.storyboard in Resources */,
+				D5DE91072016F100009A776C /* IMG_2489.jpg in Resources */,
+				D5DE91082016F100009A776C /* IMG_3536.JPG in Resources */,
+				D5DE91032016F100009A776C /* IMG_3863.JPG in Resources */,
+				D5DE91002016F100009A776C /* IMG_3097.JPG in Resources */,
+				D5DE910B2016F100009A776C /* IMG_3767.JPG in Resources */,
+				D5DE910A2016F100009A776C /* IMG_3905.JPG in Resources */,
+				D5DE91012016F100009A776C /* IMG_3771.JPG in Resources */,
+				D5DE910D2016F100009A776C /* IMG_3852.JPG in Resources */,
+				D5DE910C2016F100009A776C /* IMG_3533.JPG in Resources */,
+				D5DE91022016F100009A776C /* IMG_3918.jpg in Resources */,
+				D5DE90FF2016F100009A776C /* IMG_3917.JPG in Resources */,
+				D5DE91042016F100009A776C /* IMG_3830.JPG in Resources */,
+				D579D2B72016E07A0019D00F /* Assets.xcassets in Resources */,
+				D579D2B52016E07A0019D00F /* Main.storyboard in Resources */,
+				D5DE91062016F100009A776C /* IMG_3867.JPG in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D579D2A82016E07A0019D00F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D5674BD4202A80F9002C1FA0 /* MyPhotoViewController.swift in Sources */,
+				D579D2B22016E07A0019D00F /* ViewController.swift in Sources */,
+				D579D2B02016E07A0019D00F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D579D2B32016E07A0019D00F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D579D2B42016E07A0019D00F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D579D2B82016E07A0019D00F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D579D2B92016E07A0019D00F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D579D2BC2016E07A0019D00F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D579D2BD2016E07A0019D00F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D579D2BF2016E07A0019D00F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Spring Vandyapps Test/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Marshall.Spring-Vandyapps-Test";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		D579D2C02016E07A0019D00F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Spring Vandyapps Test/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Marshall.Spring-Vandyapps-Test";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D579D2A72016E07A0019D00F /* Build configuration list for PBXProject "Spring Vandyapps Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D579D2BC2016E07A0019D00F /* Debug */,
+				D579D2BD2016E07A0019D00F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D579D2BE2016E07A0019D00F /* Build configuration list for PBXNativeTarget "Spring Vandyapps Test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D579D2BF2016E07A0019D00F /* Debug */,
+				D579D2C02016E07A0019D00F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D579D2A42016E07A0019D00F /* Project object */;
+}
